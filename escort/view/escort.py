@@ -19,13 +19,13 @@ def hello_world():
     return 'Hello escort!'
 
 
-@app.route('/check_signature')
+@app.route('/check_signature<signature, >', methods=['GET'])
+#参数来自于url
 def check_signature():
-    token = request['token']
     signature = request['signature']
     timestamp = request['timestamp']
     nonce = request['nonce']
-    return wechat.check_signature(signature, timestamp, nonce)
+    wechat.check_signature(signature, timestamp, nonce)
 
 
 @app.route('/make_a_order', methods=['POST', 'GET'])
