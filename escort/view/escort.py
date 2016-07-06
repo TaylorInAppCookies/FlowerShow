@@ -25,7 +25,8 @@ def hello_world():
 
 @app.route('/check_signature<signature><timestamp><nonce><echostr>', methods=['GET'])
 def check_signature(signature, timestamp, nonce, echostr):
-    return wechat.check_signature(signature, timestamp, nonce)
+    if wechat.check_signature(signature, timestamp, nonce):
+        return echostr
 
 
 @app.route('/make_a_order', methods=['POST', 'GET'])
