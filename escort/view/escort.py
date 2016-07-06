@@ -23,7 +23,7 @@ def hello_world():
     return 'Hello escort!'
 
 
-@app.route('/check_signature<signature><timestamp><nonce><echostr>', methods=['GET'])
+@app.route('/check_signature?<signature>/<timestamp>/<nonce>/<echostr>', methods=['GET'])
 def check_signature(signature, timestamp, nonce, echostr):
     if wechat.check_signature(signature, timestamp, nonce):
         return echostr

@@ -30,14 +30,14 @@
       <file leaf-file-name="escort.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/escort/view/escort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+            <state relative-caret-position="436">
+              <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
               <folding>
                 <element signature="e#16#31#0" expanded="true" />
                 <element signature="e#268#272#0" expanded="true" />
                 <element signature="e#314#336#0" expanded="true" />
-                <element signature="e#488#566#0" expanded="true" />
-                <element signature="e#646#1613#0" expanded="true" />
+                <element signature="e#492#570#0" expanded="true" />
+                <element signature="e#650#1617#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -530,8 +530,8 @@
             <element signature="e#16#31#0" expanded="true" />
             <element signature="e#268#272#0" expanded="true" />
             <element signature="e#314#336#0" expanded="true" />
-            <element signature="e#488#566#0" expanded="true" />
-            <element signature="e#646#1613#0" expanded="true" />
+            <element signature="e#492#570#0" expanded="true" />
+            <element signature="e#650#1617#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -554,8 +554,8 @@
             <element signature="e#16#31#0" expanded="true" />
             <element signature="e#268#272#0" expanded="true" />
             <element signature="e#314#336#0" expanded="true" />
-            <element signature="e#488#566#0" expanded="true" />
-            <element signature="e#646#1613#0" expanded="true" />
+            <element signature="e#492#570#0" expanded="true" />
+            <element signature="e#650#1617#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -578,8 +578,8 @@
             <element signature="e#16#31#0" expanded="true" />
             <element signature="e#268#272#0" expanded="true" />
             <element signature="e#314#336#0" expanded="true" />
-            <element signature="e#488#566#0" expanded="true" />
-            <element signature="e#646#1613#0" expanded="true" />
+            <element signature="e#492#570#0" expanded="true" />
+            <element signature="e#650#1617#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -602,8 +602,8 @@
             <element signature="e#16#31#0" expanded="true" />
             <element signature="e#268#272#0" expanded="true" />
             <element signature="e#314#336#0" expanded="true" />
-            <element signature="e#488#566#0" expanded="true" />
-            <element signature="e#646#1613#0" expanded="true" />
+            <element signature="e#492#570#0" expanded="true" />
+            <element signature="e#650#1617#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -623,8 +623,8 @@
             <element signature="e#16#31#0" expanded="true" />
             <element signature="e#268#272#0" expanded="true" />
             <element signature="e#314#336#0" expanded="true" />
-            <element signature="e#488#566#0" expanded="true" />
-            <element signature="e#646#1613#0" expanded="true" />
+            <element signature="e#492#570#0" expanded="true" />
+            <element signature="e#650#1617#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -644,8 +644,8 @@
             <element signature="e#16#31#0" expanded="true" />
             <element signature="e#268#272#0" expanded="true" />
             <element signature="e#314#336#0" expanded="true" />
-            <element signature="e#488#566#0" expanded="true" />
-            <element signature="e#646#1613#0" expanded="true" />
+            <element signature="e#492#570#0" expanded="true" />
+            <element signature="e#650#1617#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -686,14 +686,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/escort/view/escort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        <state relative-caret-position="436">
+          <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
           <folding>
             <element signature="e#16#31#0" expanded="true" />
             <element signature="e#268#272#0" expanded="true" />
             <element signature="e#314#336#0" expanded="true" />
-            <element signature="e#488#566#0" expanded="true" />
-            <element signature="e#646#1613#0" expanded="true" />
+            <element signature="e#492#570#0" expanded="true" />
+            <element signature="e#650#1617#0" expanded="true" />
           </folding>
         </state>
       </provider>
