@@ -3,6 +3,7 @@ import datetime
 
 import sys
 from flask import Flask, request, render_template
+
 sys.path.append("..")
 from model.base import db_session
 
@@ -22,8 +23,8 @@ def hello_world():
     return 'Hello escort!'
 
 
-@app.route('/check_signature<signature><timestamp><nonce>', methods=['GET'])
-def check_signature(signature, timestamp, nonce):
+@app.route('/check_signature<signature><timestamp><nonce><echostr>', methods=['GET'])
+def check_signature(signature, timestamp, nonce, echostr):
     return wechat.check_signature(signature, timestamp, nonce)
 
 
