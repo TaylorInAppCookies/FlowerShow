@@ -1,6 +1,9 @@
 # coding: utf-8
 import datetime
+
+import sys
 from flask import Flask, request, render_template
+sys.path.append("..")
 from model.base import db_session
 
 from model.order import Order
